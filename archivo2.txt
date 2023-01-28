@@ -1,2 +1,0 @@
-Hola mundo 2x1 desde otro archivo que va para git
-Que más mundo!
